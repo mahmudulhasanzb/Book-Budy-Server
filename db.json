@@ -108,5 +108,53 @@
       "available_quantity": 19,
       "image_url": "https://covers.openlibrary.org/b/isbn/9781626569416-L.jpg"
     }
-  ]
+  ],
+
+  "featured-books": [
+  {
+    "id": 13,
+    "title": "Outliers: The Story of Success",
+    "author": "Malcolm Gladwell",
+    "description": "An examination of the factors that contribute to high levels of success, arguing that we pay too much attention to what successful people are like, and too little attention to where they are from.",
+    "category": "Science",
+    "available_quantity": 28,
+    "image_url": "https://covers.openlibrary.org/b/isbn/9780316017923-L.jpg"
+  },
+  {
+    "id": 14,
+    "title": "How to Win Friends and Influence People",
+    "author": "Dale Carnegie",
+    "description": "A timeless bestseller packed with rock-solid advice that has carried thousands of now famous people up the ladder of success in their business and personal lives.",
+    "category": "Story",
+    "available_quantity": 50,
+    "image_url": "https://covers.openlibrary.org/b/isbn/9780671027032-L.jpg"
+  },
+  {
+    "id": 15,
+    "title": "Quiet: The Power of Introverts in a World That Can't Stop Talking",
+    "author": "Susan Cain",
+    "description": "Explores the rise of the Extrovert Ideal throughout the 20th century and explores how deeply it has come to permeate our culture, dramatically undervaluing introverts.",
+    "category": "Science",
+    "available_quantity": 22,
+    "image_url": "https://covers.openlibrary.org/b/isbn/9780307352156-L.jpg"
+  },
+  {
+    "id": 16,
+    "title": "The 4-Hour Workweek",
+    "author": "Timothy Ferriss",
+    "description": "A step-by-step guide to luxury lifestyle design, teaching how to escape the 9-5, live anywhere, and join the new rich using modern tools and outsourcing.",
+    "category": "Tech",
+    "available_quantity": 17,
+    "image_url": "https://covers.openlibrary.org/b/isbn/9780307465351-L.jpg"
+  },
+  {
+    "id": 17,
+    "title": "Man's Search for Meaning",
+    "author": "Viktor E. Frankl",
+    "description": "Psychiatrist Viktor Frankl's memoir has riveted generations of readers with its descriptions of life in Nazi death camps and its profound lessons for spiritual survival and finding purpose.",
+    "category": "Story",
+    "available_quantity": 38,
+    "image_url": "https://covers.openlibrary.org/b/isbn/9780807014295-L.jpg"
+  }
+]
 }
