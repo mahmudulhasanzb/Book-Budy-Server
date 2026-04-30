@@ -1,0 +1,112 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "description": "An easy and proven way to build good habits and break bad ones, focusing on tiny changes that yield remarkable results.",
+      "category": "Science",
+      "available_quantity": 45,
+      "image_url": "https://covers.openlibrary.org/b/isbn/9780735211292-L.jpg"
+    },
+    {
+      "id": 2,
+      "title": "The Power of Habit",
+      "author": "Charles Duhigg",
+      "description": "Explores the thrilling edge of scientific discoveries that explain why habits exist and how they can be changed.",
+      "category": "Science",
+      "available_quantity": 32,
+      "image_url": "https://covers.openlibrary.org/b/isbn/9780812981605-L.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Deep Work",
+      "author": "Cal Newport",
+      "description": "Rules for focused success in a distracted world, teaching how to cultivate a deep work ethic.",
+      "category": "Tech",
+      "available_quantity": 18,
+      "image_url": "https://covers.openlibrary.org/b/isbn/9781455586691-L.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Thinking, Fast and Slow",
+      "author": "Daniel Kahneman",
+      "description": "A groundbreaking tour of the mind explaining the two systems that drive the way we think.",
+      "category": "Science",
+      "available_quantity": 27,
+      "image_url": "https://covers.openlibrary.org/b/isbn/9780374533557-L.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Mindset: The New Psychology of Success",
+      "author": "Carol S. Dweck",
+      "description": "Shows how success in school, work, sports, the arts, and almost every area of human endeavor can be dramatically influenced by how we think about our talents and abilities.",
+      "category": "Science",
+      "available_quantity": 40,
+      "image_url": "https://covers.openlibrary.org/b/isbn/9780345472328-L.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Essentialism: The Disciplined Pursuit of Less",
+      "author": "Greg McKeown",
+      "description": "A systematic discipline for discerning what is absolutely essential, then eliminating everything that is not.",
+      "category": "Story",
+      "available_quantity": 21,
+      "image_url": "https://covers.openlibrary.org/b/isbn/9780804137386-L.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Tiny Habits",
+      "author": "BJ Fogg",
+      "description": "The small changes that change everything, introducing the Fogg Behavior Model to form habits quickly and easily.",
+      "category": "Science",
+      "available_quantity": 15,
+      "image_url": "https://covers.openlibrary.org/b/isbn/9780358362777-L.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Make Time",
+      "author": "Jake Knapp, John Zeratsky",
+      "description": "How to focus on what matters every day, offering a customizable menu of bite-size tips and strategies.",
+      "category": "Tech",
+      "available_quantity": 11,
+      "image_url": "https://covers.openlibrary.org/b/isbn/9780525536512-L.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Grit: The Power of Passion and Perseverance",
+      "author": "Angela Duckworth",
+      "description": "Shows anyone striving to succeed that the secret to outstanding achievement is not talent, but a special blend of passion and persistence.",
+      "category": "Science",
+      "available_quantity": 29,
+      "image_url": "https://covers.openlibrary.org/b/isbn/9781501111105-L.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Drive: The Surprising Truth About What Motivates Us",
+      "author": "Daniel H. Pink",
+      "description": "Examines the three elements of true motivation—autonomy, mastery, and purpose—and offers smart and surprising techniques for putting these into action.",
+      "category": "Science",
+      "available_quantity": 24,
+      "image_url": "https://covers.openlibrary.org/b/isbn/9781594484803-L.jpg"
+    },
+    {
+      "id": 11,
+      "title": "The 7 Habits of Highly Effective People",
+      "author": "Stephen R. Covey",
+      "description": "Presents a holistic, integrated, principle-centered approach for solving personal and professional problems.",
+      "category": "Story",
+      "available_quantity": 35,
+      "image_url": "https://covers.openlibrary.org/b/isbn/9780743269513-L.jpg"
+    },
+    {
+      "id": 12,
+      "title": "Eat That Frog!",
+      "author": "Brian Tracy",
+      "description": "21 Great Ways to Stop Procrastinating and Get More Done in Less Time.",
+      "category": "Story",
+      "available_quantity": 19,
+      "image_url": "https://covers.openlibrary.org/b/isbn/9781626569416-L.jpg"
+    }
+  ]
+}
